@@ -351,11 +351,11 @@ map.on("load", function() {
         if (!map.getLayer('myGeoJSONLayer')) {
             map.addLayer({
                 'id': 'myGeoJSONLayer',
-                'type': 'line', 
+                'type': 'circle', 
                 'source': 'myGeoJSON',
                 'paint': {
-                     'line-color': '#ff0000',
-                    'line-width': 3 
+                     'circle-radius': 5,
+            'circle-color': '#b42323' 
                 }
             });
         }
