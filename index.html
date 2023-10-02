@@ -306,6 +306,11 @@ var scroller = scrollama();
 
 
 map.on("load", function() {
+    map.addSource('myGeoJSON', {
+        'type': 'geojson',
+        'data': 'file:///Users/wataruyoshida/Downloads/%E7%99%BD%E5%B1%B1%E5%B8%82%E6%9C%9D%E9%A1%94%E5%AE%9F%E8%B5%B0.geojson'
+    });
+
     if (config.use3dTerrain) {
         map.addSource('mapbox-dem', {
             'type': 'raster-dem',
@@ -342,7 +347,20 @@ map.on("load", function() {
     .onStepEnter(async response => {
         var current_chapter = config.chapters.findIndex(chap => chap.id === response.element.id);
         var chapter = config.chapters[current_chapter];
-        
+         if (chapter.id === 'second-identifier') {
+        if (!map.getLayer('myGeoJSONLayer')) {
+            map.addLayer({
+                'id': 'myGeoJSONLayer',
+                'type': 'line', 
+                'source': 'myGeoJSON',
+                'paint': {
+                     'line-color': '#ff0000',
+                    'line-width': 3 
+                }
+            });
+        }
+    }
+})
         response.element.classList.add('active');
         map[chapter.mapAnimation || 'flyTo'](chapter.location);
 
@@ -385,6 +403,11 @@ map.on("load", function() {
     })
     .onStepExit(response => {
         var chapter = config.chapters.find(chap => chap.id === response.element.id);
+      if (chapter.id === 'second-identifier') {
+        if (map.getLayer('myGeoJSONLayer')) {
+            map.removeLayer('myGeoJSONLayer');
+        }
+    }
         response.element.classList.remove('active');
         if (chapter.onChapterExit.length > 0) {
             chapter.onChapterExit.forEach(setLayerOpacity);
