@@ -213,7 +213,7 @@ var config = {
             title: '猿　珠洲市',
             image: 'https://user-images.githubusercontent.com/93134160/269915961-0a831ea8-0db2-48c7-b1e1-5fbf20b96f1f.jpg',
             description: '奥能登には猿にまつわる伝説・伝承が多数残っています。そして珠洲の海岸線は猿の顔そのもの。激坂の山越え、趣の異なる外浦と内浦の海岸線、風情ある珠洲の街並みとバリエーションに富んだコースになっています。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln4ki3pc006a01q55x42c1ct',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                center: [137.31259, 37.43824],
 		zoom: 10.1,
@@ -233,7 +233,7 @@ var config = {
             title: 'うさぎ　七尾市',
             image: 'https://user-images.githubusercontent.com/93134160/269916947-25ec5eb2-bda0-431a-8d1c-a171f2088daa.jpg',
             description: '七尾湾の中に浮かんでいる能登島の海岸線は、美しい海とおだやかな入江、荒波に削られた岩々など変化にとんだ景色が広がっています。海岸線の道路をつないでいくと大きなうさぎが浮かびあがること、ご存じでしたか？',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln4ki3pc006a01q55x42c1ct',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                center: [137.03906, 37.13466],
 		zoom: 11.4,
@@ -253,7 +253,7 @@ var config = {
             title: '水の旅　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/269920414-10b2521c-cd04-4c7d-8054-5eec091e3fdf.jpg',
             description: '白山手取川ジオパークは2023年、ユネスコ世界ジオパークに認定されました。白山に降った雪が水となり、手取川から日本海に流れる水の旅がテーマです。山頂から加賀禅定道～手取川～日本海までの水の旅を描きます。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln4kq2yd005401pw9wia3np4',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                 center: [136.40202, 36.26203],
 		zoom: 8.8,
@@ -273,7 +273,7 @@ var config = {
             title: 'わんじま　輪島市',
             image: 'https://user-images.githubusercontent.com/93134160/270154426-a748817a-7e02-4aab-9a4b-cb3058107933.jpg',
             description: '輪島漆芸美術館のゆるキャラ、わんじま。輪島塗のお椀がモチーフです。輪島漆芸美術館をスタートし、輪島塗スポットや輪島の朝市など観光名所を巡りながら出来上がったアートは、手に輪島塗のお箸を持ったわんじまです。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln4l0n7f006301pu7ole24b7',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                 center: [136.89563, 37.39382],
 		zoom: 14.7,
@@ -293,7 +293,7 @@ var config = {
             title: 'ボラ待ちやぐら　穴水町',
             image: 'https://user-images.githubusercontent.com/93134160/270154647-9325e492-58cc-4090-b54e-3469d03d89db.jpg',
             description: '終日、やぐらの上から海を見張り、魚群がくると網をたぐるという江戸時代からの伝統的漁法のボラ待ちやぐら。最盛期には40基のボラ待ちやぐらがあったそうです。ボラ待ちやぐら3基を巡ってやぐらのアートを描きます。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln4l5lm7006401py4gz685ow',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                 center: [136.89077, 37.21223],
 		zoom: 12.4,
@@ -313,7 +313,7 @@ var config = {
             title: 'かも丸　加賀市',
             image: 'https://user-images.githubusercontent.com/93134160/270154928-04f20766-38f6-447a-8014-a11db0c60678.jpg',
             description: '加賀市にはラムサール条約に登録されている日本有数の鴨の越冬池や、江戸時代より伝わる伝統的鴨漁「坂網漁」など鴨にちなんだものが有名です。加賀市大聖寺で加賀市の公式キャラクターかも丸くんを描きます。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln4l9a4b006001rc3wi79ee4',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                 center: [136.30828, 36.30754],
 		zoom: 14.7,
@@ -333,7 +333,7 @@ var config = {
             title: 'ゆ　加賀市',
             image: 'https://user-images.githubusercontent.com/93134160/270155257-a49d20da-d430-4d40-972f-682f8851316c.jpg',
             description: '山代温泉はあいうえお五十音図発祥の地。平安時代、明覚上人はお経を読むためサンスクリット語を学んでいるうちに、日本語に5つの母音があり、文字列がきれいに並ぶことを発見しました。ひらがなで温泉のゆを描きます。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln4llr51006001r7bn3o493n',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                 center: [136.34857, 36.28945],
 		zoom: 13.0,
