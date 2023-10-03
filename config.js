@@ -96,7 +96,7 @@ var config = {
 	　　mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
               	center: [137.24124, 37.33479],
-		zoom: 11.6,
+		zoom: 11.3,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -116,7 +116,7 @@ var config = {
 	　　mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
                center: [136.75984, 37.01188],
-		zoom: 13.3,
+		zoom: 13.0,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -136,7 +136,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
              center: [136.66912, 36.56311],
-		zoom: 14.3,
+		zoom: 14.0,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -156,7 +156,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
                 center: [136.49743, 36.49133],
-		zoom: 14.4,
+		zoom: 14.1,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -176,7 +176,7 @@ var config = {
  	    mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
                 center: [136.56469, 36.49186],
-		zoom: 14.2,
+		zoom: 14.0,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -196,7 +196,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
-		zoom: 7.9,
+		zoom: 7.7,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -216,7 +216,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                center: [137.31259, 37.43824],
-		zoom: 10.1,
+		zoom: 9.8,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -236,7 +236,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                center: [137.03906, 37.13466],
-		zoom: 11.4,
+		zoom: 11.0,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -256,7 +256,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln4kq2yd005401pw9wia3np4',
             location: {
                 center: [136.40202, 36.26203],
-		zoom: 8.8,
+		zoom: 8.5,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -276,7 +276,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                 center: [136.89563, 37.39382],
-		zoom: 14.7,
+		zoom: 14.4,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -296,7 +296,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                 center: [136.89077, 37.21223],
-		zoom: 12.4,
+		zoom: 12.0,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -316,7 +316,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                 center: [136.30828, 36.30754],
-		zoom: 14.7,
+		zoom: 14.4,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -336,7 +336,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
             location: {
                 center: [136.34857, 36.28945],
-		zoom: 13.0,
+		zoom: 12.7,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -356,7 +356,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
-		zoom: 7.9,
+		zoom: 7.7,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -376,7 +376,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9y5xps008901pw7xlped4i',
             location: {
                 center: [136.92608, 37.08792],
-		zoom: 14.6,
+		zoom: 14.3,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -396,7 +396,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9y5xps008901pw7xlped4i',
             location: {
                 center: [136.76706, 36.90393],
-		zoom: 12.8,
+		zoom: 12.5,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -416,7 +416,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9y5xps008901pw7xlped4i',
             location: {
                 center: [136.74757, 36.81809],
-		zoom: 12.7,
+		zoom: 12.4,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -436,7 +436,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9y5xps008901pw7xlped4i',
             location: {
                 center: [136.51535, 36.48797],
-		zoom: 11.1,
+		zoom: 10.8,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -456,7 +456,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.88809, 36.84067],
-		zoom: 9.3,
+		zoom: 8.5,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -476,7 +476,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.95108, 37.02812],
-		zoom: 12.6,
+		zoom: 12.3,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -496,7 +496,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.72507, 36.66650],
-		zoom: 13.9,
+		zoom: 13.6,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -516,7 +516,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.61282, 36.61607],
-		zoom: 12.9,
+		zoom: 12.6,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -536,7 +536,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
-		zoom: 7.9,
+		zoom: 7.7,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -556,7 +556,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.76088, 37.27944],
-		zoom: 13.7,
+		zoom: 13.4,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -576,7 +576,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.89405, 36.98522],
-		zoom: 13.6,
+		zoom: 13.3,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -596,7 +596,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.64369, 36.56713],
-		zoom: 12.6,
+		zoom: 12.3,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -616,7 +616,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                center: [136.60968, 36.52600],
-		zoom: 14.1,
+		zoom: 13.8,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -636,7 +636,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.49972, 36.44231],
-		zoom: 13.7,
+		zoom: 13.4,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -656,7 +656,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.69138, 36.71836],
-		zoom: 13.5,
+		zoom: 13.2,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -676,7 +676,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.43401, 36.43830],
-		zoom: 13.6,
+		zoom: 13.3,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -696,7 +696,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.37045, 36.24500],
-		zoom: 15.2,
+		zoom: 15.0,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -716,7 +716,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.30592, 36.31648],
-		zoom: 12.8,
+		zoom: 12.5,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -736,7 +736,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9zimax008z01rc5emzdvlh',
             location: {
                 center: [137.20738, 37.42857],
-		zoom: 10.9,
+		zoom: 10.5,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -756,7 +756,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9zsw2l002401psdwm7g0ki',
             location: {
                 center: [136.33635, 36.80514],
-		zoom: 7.9,
+		zoom: 7.5,
 		pitch: 0.00,
 		bearing: -8.43,
             },
@@ -776,7 +776,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
-		zoom: 7.9,
+		zoom: 7.7,
 		pitch: 0.00,
 		bearing: 0.00,
             },
