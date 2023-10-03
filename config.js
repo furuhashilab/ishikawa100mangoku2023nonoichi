@@ -733,7 +733,7 @@ var config = {
             title: 'がんばろうスズ　珠洲市',
             image: 'https://user-images.githubusercontent.com/93134160/270507015-f6c5b409-3fcb-4a4d-9500-e7addbe40d84.jpg',
             description: '2023年5月、大きな震災にあった珠洲。夏にはトライアスロン珠洲、秋には奥能登国際芸術祭が数年ぶりに開催されます。スポーツとアートの力、そしてみんなの強い気持ちと団結で乗り越えていきましょう。がんばろうスズ',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9zimax008z01rc5emzdvlh',
             location: {
                 center: [137.20738, 37.42857],
 		zoom: 10.9,
