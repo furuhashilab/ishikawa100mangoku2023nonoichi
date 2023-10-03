@@ -373,6 +373,7 @@ var config = {
             title: '白鷺　七尾市',
             image: 'https://user-images.githubusercontent.com/93134160/270162751-e8306876-4b6e-495d-99db-b9eb270b9cab.jpg',
             description: '日本では珍しい海から温泉が湧き出ている和倉温泉。七尾湾で一羽の白鷺が傷を癒していたのを漁師夫婦が見つけ、不思議に思い近づいてみると海中から温泉が湧き出ていた。これが和倉温泉の発祥とされています。',
+	    mapStyle: 'mapbox://styles/374chan/cln8aarv5007i01q59zkhdoea',
             location: {
                 center: [136.92608, 37.08792],
 		zoom: 14.6,
@@ -392,6 +393,7 @@ var config = {
             title: 'UＦＯキャッチャー 羽咋市',
             image: 'https://user-images.githubusercontent.com/93134160/270162993-7cd2941d-b752-41a5-a157-bb1f0ced9895.jpg',
             description: 'UFOの町羽咋。気多大社の横にある正覚院の「気多古縁起」という古い巻物の中には、神力自在に飛ぶ物体が登場したということが由来だそうです。コスモアイル羽咋にはロケットや宇宙船の実物が展示されています。',
+	    mapStyle: 'mapbox://styles/374chan/cln8bmma6006j01pwddbsaq5f',
             location: {
                 center: [136.76706, 36.90393],
 		zoom: 12.8,
@@ -411,6 +413,7 @@ var config = {
             title: 'モーゼ　宝達志水町',
             image: 'https://user-images.githubusercontent.com/93134160/270163320-ded9d085-4673-46b2-926d-e64a58a4e104.jpg',
             description: '宝達志水町モーゼパークには、旧約聖書「十戒」で海を割ったモーゼの墓があります。ユダヤの民衆をイスラエルの地へ導いた後、不思議な天浮船で宝達山にどり着き、余生をこの地で過ごしたという言い伝えがあります。',
+	    mapStyle: 'mapbox://styles/374chan/cln8bncgo006k01pw5rhc9gte',
             location: {
                 center: [136.74757, 36.81809],
 		zoom: 12.7,
@@ -430,6 +433,7 @@ var config = {
             title: '牛王印　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/270163791-b0892231-5752-4853-8624-53ac7f2a90ba.jpg',
             description: '平安時代に開かれた加賀禅定道は巨大な扇状地の頂点にある白山比咩神社を起点に、白山へと至る歴史ある信仰の道。白山に登る修験者の安全を祈願するお守りとして使われていた牛王印を手取川扇状地全体に描きます。',
+	    mapStyle: 'mapbox://styles/374chan/cln8bznm1007e01rc0er5cnxi',
             location: {
                 center: [136.51535, 36.48797],
 		zoom: 11.1,
@@ -449,6 +453,7 @@ var config = {
             title: '祭礼・行事についてみていきましょう！',
             image: '',
             description: '',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.88809, 36.84067],
 		zoom: 9.3,
