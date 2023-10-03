@@ -173,6 +173,7 @@ var config = {
             title: '日本酒　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/269913779-3eb426b8-4dcf-4842-938e-77b744404f8d.jpg',
             description: '白山市は霊峰白山から流れる手取川の伏流水と加賀平野の良質な酒米を用いた日本酒の一大生産地として古より知られております。見渡すかぎり田んぼののどかな扇状地。「手取川」吉田酒造、「天狗舞」車多酒造を巡ります。',
+ 	    mapStyle: 'mapbox://styles/wataruyoshida/cln4k0s7p006101ps4v2d33dp',
             location: {
                 center: [136.56469, 36.49186],
 		zoom: 14.2,
@@ -192,6 +193,7 @@ var config = {
             title: '石川県の海岸線はどうなっているでしょうか。見てみましょう！',
             image: '',
             description: '',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
 		zoom: 7.9,
@@ -211,6 +213,7 @@ var config = {
             title: '猿　珠洲市',
             image: 'https://user-images.githubusercontent.com/93134160/269915961-0a831ea8-0db2-48c7-b1e1-5fbf20b96f1f.jpg',
             description: '奥能登には猿にまつわる伝説・伝承が多数残っています。そして珠洲の海岸線は猿の顔そのもの。激坂の山越え、趣の異なる外浦と内浦の海岸線、風情ある珠洲の街並みとバリエーションに富んだコースになっています。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                center: [137.31259, 37.43824],
 		zoom: 10.1,
