@@ -25,7 +25,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.93595, 37.03622],
-		zoom: 7.6,
+		zoom: 7.4,
 		pitch: 0.00,
 		bearing: 0.00,
             },
@@ -56,7 +56,7 @@ var config = {
 	　　mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
                 center: [136.57608, 36.52642],
-		zoom: 13.8,
+		zoom: 13.5,
 		pitch: 0.00,
 		bearing: 0.00,
                },
@@ -76,7 +76,7 @@ var config = {
 	　　mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
-		zoom: 8.0,
+		zoom: 7.7,
 		pitch: 0.00,
 		bearing: 0.00,
             },
