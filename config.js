@@ -676,7 +676,7 @@ var config = {
 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.43401, 36.43830],
-		zoom: 13.3,
+		zoom: 13.0,
 		pitch: 0.00,
 		bearing: -8.43,
             },
