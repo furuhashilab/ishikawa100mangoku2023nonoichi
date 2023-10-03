@@ -175,8 +175,8 @@ var config = {
             description: '白山市は霊峰白山から流れる手取川の伏流水と加賀平野の良質な酒米を用いた日本酒の一大生産地として古より知られております。見渡すかぎり田んぼののどかな扇状地。「手取川」吉田酒造、「天狗舞」車多酒造を巡ります。',
  	    mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
-                center: [136.56469, 36.49186],
-		zoom: 14.0,
+                center: [136.55383, 36.48918],
+		zoom: 14.00,
 		pitch: 0.00,
 		bearing: 0.00,
             },
