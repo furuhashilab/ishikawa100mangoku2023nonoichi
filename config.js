@@ -373,7 +373,7 @@ var config = {
             title: '白鷺　七尾市',
             image: 'https://user-images.githubusercontent.com/93134160/270162751-e8306876-4b6e-495d-99db-b9eb270b9cab.jpg',
             description: '日本では珍しい海から温泉が湧き出ている和倉温泉。七尾湾で一羽の白鷺が傷を癒していたのを漁師夫婦が見つけ、不思議に思い近づいてみると海中から温泉が湧き出ていた。これが和倉温泉の発祥とされています。',
-	    mapStyle: 'mapbox://styles/374chan/cln8aarv5007i01q59zkhdoea',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9o7cqh008w01rcdcyialcl',
             location: {
                 center: [136.92608, 37.08792],
 		zoom: 14.6,
