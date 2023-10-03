@@ -72,7 +72,7 @@ var config = {
 	title: '次は石川県の特産品を見ていきましょう！',
             image: '',
             description: '',
-	　　mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
+	　　mapStyle: 'mapbox://styles/wataruyoshida/cln4kaf1g005z01rc712g2ixw',
             location: {
                 center: [136.94993, 36.79451],
 		zoom: 8.0,
