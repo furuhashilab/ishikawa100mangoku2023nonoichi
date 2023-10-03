@@ -132,6 +132,7 @@ var config = {
             title: '福梅　金沢市',
             image: 'https://user-images.githubusercontent.com/93134160/269911787-49a59cae-7458-4d3b-aa89-3771865ba2af.jpg',
             description: '金沢では、お正月に梅の形をした紅白の最中、福梅を食べる風習があります。この福梅のルーツは加賀百万石の殿様、前田家の家紋「梅鉢紋」に由来しています。和菓子の町、金沢で和菓子屋さん巡りはいかがでしょう。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4jwfpr006901q59zbh7atv',
             location: {
              center: [136.66912, 36.56311],
 		zoom: 14.3,
@@ -151,6 +152,7 @@ var config = {
             title: 'フグ　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/269903710-1f0165e3-4626-4ff1-9b26-9c8e596b159e.jpg',
             description: '霊峰白山の恵み大地のミネラルを大量に含んだ伏流水は、醗酵食文化を生み出しました。江戸時代より伝わる美川ふぐの子糠漬は、猛毒のふぐの卵巣を使った奇跡の発酵食品として文化庁「100年フード」に認定されています。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4jre9e006001ps9gunbb50',
             location: {
                 center: [136.49743, 36.49133],
 		zoom: 14.4,
