@@ -473,6 +473,7 @@ var config = {
             title: 'でか山　七尾市',
             image: 'https://user-images.githubusercontent.com/93134160/270164290-f2b6c866-568d-4e29-b160-25d3ef9f22dd.jpg',
             description: '日本一のでか山を誇る青柏祭の起源は平安時代。疫病退散を祈願する天王信仰を背景に伝承されています。青柏祭の大地主神社や小丸山城址公園、一本杉通り、山の寺寺院群、国分寺跡を巡り七尾城にでか山を引き上げます。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.95108, 37.02812],
 		zoom: 12.6,
@@ -492,6 +493,7 @@ var config = {
             title: '駅伝　津幡町',
             image: 'https://user-images.githubusercontent.com/93134160/270164589-3c62e72a-b9f2-4845-a00e-0a9a09f21abc.jpg',
             description: '河北潟一周駅伝は箱根駅伝と同じ大正9年（1920年）から始まった日本最古の駅伝であり、開催回数は100回を超える伝統的な大会。襷をつないでゴールテープを切るランナーをゴール地点の津幡町で描きます。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.72507, 36.66650],
 		zoom: 13.9,
@@ -511,6 +513,7 @@ var config = {
             title: '凧　内灘町',
             image: 'https://user-images.githubusercontent.com/93134160/270165141-842e5ad6-3414-426d-b20e-65960028e113.jpg',
             description: '毎年5月に内灘海水浴場で行われる内灘 世界の凧の祭典は、県内外そして海外からたくさんの人が集まる凧の祭典です。アート上にある凧会館では凧づくり体験を行うことができ、内灘海岸では凧あげも楽しめます',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.61282, 36.61607],
 		zoom: 12.9,
@@ -530,6 +533,7 @@ var config = {
             title: '石川県の歴史・文化、偉人についてみていきましょう。',
             image: '',
             description: '',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
 		zoom: 7.9,
@@ -549,6 +553,7 @@ var config = {
             title: '禅　輪島市',
             image: 'https://user-images.githubusercontent.com/93134160/270166775-72a784f7-e083-4de7-b916-718fbdbcb25f.jpg',
             description: 'かつて北前船の寄港地として栄えた輪島市門前にある総持寺祖院。海を通じて禅の文化を全国に広めました。また總持寺峨山禅師は、羽咋市永光寺の住職を兼ねており、両寺を結ぶ13里（52km）を往来していたそうです。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.76088, 37.27944],
 		zoom: 13.7,
@@ -568,6 +573,7 @@ var config = {
             title: 'おにぎり　中能登町',
             image: 'https://user-images.githubusercontent.com/93134160/270167165-b124a342-1986-475c-a6cd-cb2cce3fb133.jpg',
             description: 'おにぎりの里　中能登町。その由来は日本最古のおにぎりが出土したことから。1987年に弥生時代の竪穴住居跡からチマキ状炭化米の塊（おにぎりの化石）が発見されました。以降、おにぎりで町おこしがおこなわれています、',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.89405, 36.98522],
 		zoom: 13.6,
@@ -587,6 +593,7 @@ var config = {
             title: '侍　金沢市',
             image: 'https://user-images.githubusercontent.com/93134160/270169772-9172c919-6388-4d35-80ab-d5d2caa4db14.jpg',
             description: '戦火を免れた金沢は、江戸時代から道筋がほとんど変わっていない城下町。昔ながらの町屋が多数残り、町並みそのものが観光名所。金沢城を中心に武家屋敷跡や金沢五社、金沢三茶屋街、金沢三寺院群などを巡ります。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.64369, 36.56713],
 		zoom: 12.6,
@@ -606,6 +613,7 @@ var config = {
             title: '富樫氏　野々市市',
             image: 'https://user-images.githubusercontent.com/93134160/270173563-5cfc37e1-4cbd-45ec-8985-55b6fe818be1.jpg',
             description: '富樫氏は、室町時代に加賀国を支配した守護大名。それ以前も木曽義仲との対戦や、源義経の勧進帳など歴史の舞台に度々登場しています。守護所を置いた富樫館跡や、富樫氏が建てた布市神社、喜多家住宅などを巡ります。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                center: [136.60968, 36.52600],
 		zoom: 14.1,
@@ -625,6 +633,7 @@ var config = {
             title: '埴輪　能美市',
             image: 'https://user-images.githubusercontent.com/93134160/270174024-c9f7b5ae-fef2-41c4-985c-3f233ca72efb.jpg',
             description: '能美古墳群、寺井山→末寺山→和田山（２座）→秋常山→西山を繋ぎ埴輪を描きます。能美ふるさとミュージアムでは遺跡で発掘された壺や宝剣・埴輪などを見学。今年は加賀立国能美誕生1200年。能美市のルーツを探ります。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9yn65b008z01reha13ad8j',
             location: {
                 center: [136.49972, 36.44231],
 		zoom: 13.7,
@@ -644,6 +653,7 @@ var config = {
             title: '考える人　かほく市',
             image: 'https://user-images.githubusercontent.com/93134160/270174576-2d8e81ca-a3be-484b-96dc-6c0142886377.jpg',
             description: 'かほく市が生んだ日本近代哲学の偉人、西田幾多郎。幾多郎の生誕地から生い立ちの地、西田幾多郎哲学館、哲学の道、幾多郎のお墓など幾多郎のルーツを巡っていくと、「考える人」が町に浮かびあがります。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.69138, 36.71836],
 		zoom: 13.5,
@@ -663,6 +673,7 @@ var config = {
             title: '野球　能美市',
             image: 'https://user-images.githubusercontent.com/93134160/270175053-380a0e13-4d19-43e9-8a60-87d215489bb9.jpg',
             description: '巨人・NYヤンキースで活躍した松井秀喜さんは石川県能美市出身。松井秀喜ベースボールミュージアムを起点に松井さんの母校（浜小学校、根上中学）をはじめ、根上りの松、弁慶謝罪の地などを巡ります。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.43401, 36.43830],
 		zoom: 13.6,
@@ -682,6 +693,7 @@ var config = {
             title: '松尾芭蕉　加賀市',
             image: 'https://user-images.githubusercontent.com/93134160/270504183-7d81f91d-0dbc-4b85-9f1b-1881ce97f1b4.jpg',
             description: '開湯1300年の歴史を持つ山中温泉は、芭蕉が称賛した日本三大名湯の1つ。1689年夏、奥の細道の道中、松尾芭蕉は山中温泉に長期にわたって滞在しました。山中温泉の数々の名所旧跡には芭蕉の句が残されています。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.37045, 36.24500],
 		zoom: 15.2,
