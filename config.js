@@ -53,7 +53,7 @@ var config = {
             title: '朝顔　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/269891930-33231cd2-6e94-4e50-b5ac-3f3494f2b416.jpg',
             description: '江戸時代の俳人・千代女は白山市出身。千代女は朝顔の句を多く詠んでいることから、朝顔は白山市の花になっています。若宮八幡宮・明達寺・千代女の里俳句館・本誓寺・聖興寺など白山市の観光スポットを巡ります。',
-	　　mapStyle: 'mapbox://styles/wataruyoshida/cln47owt0005o01rcdwro2m1o',
+	　　mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
                 center: [136.57608, 36.52642],
 		zoom: 13.8,
@@ -93,7 +93,7 @@ var config = {
             title: 'イカキング　能登町',
             image: 'https://user-images.githubusercontent.com/93134160/269909275-47ce8af0-72e5-47e3-8941-175d6aa4ea90.jpg',
             description: '日本有数のイカ釣り漁港がある能登町。漁港のそばの巨大モニュメント、イカキングは一躍話題となりました。日本百景に選ばれた九十九湾など風光明媚な里山里海を駆け巡り、能登町に巨大イカキングを描きます。',
-	　　mapStyle: 'mapbox://styles/wataruyoshida/cln4kaf1g005z01rc712g2ixw',
+	　　mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
               	center: [137.24124, 37.33479],
 		zoom: 11.6,
@@ -113,7 +113,7 @@ var config = {
             title: 'ころ柿　志賀町',
             image: 'https://user-images.githubusercontent.com/93134160/269905430-8dd50e02-0121-4708-ba24-eef087d469ad.jpg',
             description: '能登を代表する特産品、志賀町のころ柿は品種「最勝」を原料柿として、古くから伝わる伝統技法を用いて製造された糖度の高い干柿です。 志賀町の農家の軒先では干し柿がオレンジのカーテンのように吊るされています。',
-	　　mapStyle: 'mapbox://styles/wataruyoshida/cln4ep3m0006101py1ahdbezh',
+	　　mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
                center: [136.75984, 37.01188],
 		zoom: 13.3,
@@ -133,7 +133,7 @@ var config = {
             title: '福梅　金沢市',
             image: 'https://user-images.githubusercontent.com/93134160/269911787-49a59cae-7458-4d3b-aa89-3771865ba2af.jpg',
             description: '金沢では、お正月に梅の形をした紅白の最中、福梅を食べる風習があります。この福梅のルーツは加賀百万石の殿様、前田家の家紋「梅鉢紋」に由来しています。和菓子の町、金沢で和菓子屋さん巡りはいかがでしょう。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln4jwfpr006901q59zbh7atv',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
              center: [136.66912, 36.56311],
 		zoom: 14.3,
@@ -153,7 +153,7 @@ var config = {
             title: 'フグ　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/269903710-1f0165e3-4626-4ff1-9b26-9c8e596b159e.jpg',
             description: '霊峰白山の恵み大地のミネラルを大量に含んだ伏流水は、醗酵食文化を生み出しました。江戸時代より伝わる美川ふぐの子糠漬は、猛毒のふぐの卵巣を使った奇跡の発酵食品として文化庁「100年フード」に認定されています。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln4jre9e006001ps9gunbb50',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
                 center: [136.49743, 36.49133],
 		zoom: 14.4,
@@ -173,7 +173,7 @@ var config = {
             title: '日本酒　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/269913779-3eb426b8-4dcf-4842-938e-77b744404f8d.jpg',
             description: '白山市は霊峰白山から流れる手取川の伏流水と加賀平野の良質な酒米を用いた日本酒の一大生産地として古より知られております。見渡すかぎり田んぼののどかな扇状地。「手取川」吉田酒造、「天狗舞」車多酒造を巡ります。',
- 	    mapStyle: 'mapbox://styles/wataruyoshida/cln4k0s7p006101ps4v2d33dp',
+ 	    mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
                 center: [136.56469, 36.49186],
 		zoom: 14.2,
