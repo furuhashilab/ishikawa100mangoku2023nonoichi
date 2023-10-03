@@ -253,7 +253,7 @@ var config = {
             title: '水の旅　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/269920414-10b2521c-cd04-4c7d-8054-5eec091e3fdf.jpg',
             description: '白山手取川ジオパークは2023年、ユネスコ世界ジオパークに認定されました。白山に降った雪が水となり、手取川から日本海に流れる水の旅がテーマです。山頂から加賀禅定道～手取川～日本海までの水の旅を描きます。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln9xmjmj008y01rc83bv0eom',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4kq2yd005401pw9wia3np4',
             location: {
                 center: [136.40202, 36.26203],
 		zoom: 8.8,
