@@ -653,7 +653,7 @@ var config = {
             title: '考える人　かほく市',
             image: 'https://user-images.githubusercontent.com/93134160/270174576-2d8e81ca-a3be-484b-96dc-6c0142886377.jpg',
             description: 'かほく市が生んだ日本近代哲学の偉人、西田幾多郎。幾多郎の生誕地から生い立ちの地、西田幾多郎哲学館、哲学の道、幾多郎のお墓など幾多郎のルーツを巡っていくと、「考える人」が町に浮かびあがります。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.69138, 36.71836],
 		zoom: 13.5,
@@ -673,7 +673,7 @@ var config = {
             title: '野球　能美市',
             image: 'https://user-images.githubusercontent.com/93134160/270175053-380a0e13-4d19-43e9-8a60-87d215489bb9.jpg',
             description: '巨人・NYヤンキースで活躍した松井秀喜さんは石川県能美市出身。松井秀喜ベースボールミュージアムを起点に松井さんの母校（浜小学校、根上中学）をはじめ、根上りの松、弁慶謝罪の地などを巡ります。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.43401, 36.43830],
 		zoom: 13.6,
@@ -693,7 +693,7 @@ var config = {
             title: '松尾芭蕉　加賀市',
             image: 'https://user-images.githubusercontent.com/93134160/270504183-7d81f91d-0dbc-4b85-9f1b-1881ce97f1b4.jpg',
             description: '開湯1300年の歴史を持つ山中温泉は、芭蕉が称賛した日本三大名湯の1つ。1689年夏、奥の細道の道中、松尾芭蕉は山中温泉に長期にわたって滞在しました。山中温泉の数々の名所旧跡には芭蕉の句が残されています。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.37045, 36.24500],
 		zoom: 15.2,
@@ -713,6 +713,7 @@ var config = {
             title: '深田久弥　加賀市',
             image: 'https://user-images.githubusercontent.com/93134160/270506131-491624c9-da6a-45e1-8546-0dd56c9d6031.jpg',
             description: '日本人はたいていふるさとの山を持っている。「日本百名山」著者、深田久弥は加賀市大聖寺出身。深田久弥山の文化館でルーツを探り、久弥が愛した白山を眺めながら生まれ育った大聖寺の城下町をめぐります。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.30592, 36.31648],
 		zoom: 12.8,
@@ -732,6 +733,7 @@ var config = {
             title: 'がんばろうスズ　珠洲市',
             image: 'https://user-images.githubusercontent.com/93134160/270507015-f6c5b409-3fcb-4a4d-9500-e7addbe40d84.jpg',
             description: '2023年5月、大きな震災にあった珠洲。夏にはトライアスロン珠洲、秋には奥能登国際芸術祭が数年ぶりに開催されます。スポーツとアートの力、そしてみんなの強い気持ちと団結で乗り越えていきましょう。がんばろうスズ',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [137.20738, 37.42857],
 		zoom: 10.9,
@@ -751,6 +753,7 @@ var config = {
             title: 'ONE TEAM　石川１９市町',
             image: '',
             description: '長く続いたコロナ禍や地震、豪雨災害を乗り越え、皆が活力を取り戻すために。いしかわ百万石文化祭・新幹線開業・世界ジオパークなど皆で盛り上げるために。オール石川のチジョウエール、ONE TEAMを描きます。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
             location: {
                 center: [136.33635, 36.80514],
 		zoom: 7.9,
@@ -770,6 +773,7 @@ var config = {
             title: '最後に',
             image: '',
             description: 'ここまで30のGPSアートを石川県内でみてきました。いかがでしたでしょうか？ <br> 特産品や伝統芸能など石川県ならではの魅力を感じでいただけたら嬉しいです。今回GPSアートで紹介したもので気になった・興味があるスポットにぜひ足を運んでみてください！ <br> <br> Thank you for watching!!',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
 		zoom: 7.9,
