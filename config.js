@@ -393,7 +393,7 @@ var config = {
             title: 'UＦＯキャッチャー 羽咋市',
             image: 'https://user-images.githubusercontent.com/93134160/270162993-7cd2941d-b752-41a5-a157-bb1f0ced9895.jpg',
             description: 'UFOの町羽咋。気多大社の横にある正覚院の「気多古縁起」という古い巻物の中には、神力自在に飛ぶ物体が登場したということが由来だそうです。コスモアイル羽咋にはロケットや宇宙船の実物が展示されています。',
-	    mapStyle: 'mapbox://styles/374chan/cln8bmma6006j01pwddbsaq5f',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9okvb9001q01pseib0cuiy',
             location: {
                 center: [136.76706, 36.90393],
 		zoom: 12.8,
