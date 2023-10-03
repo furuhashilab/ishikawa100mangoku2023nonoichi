@@ -92,7 +92,7 @@ var config = {
             title: 'イカキング　能登町',
             image: 'https://user-images.githubusercontent.com/93134160/269909275-47ce8af0-72e5-47e3-8941-175d6aa4ea90.jpg',
             description: '日本有数のイカ釣り漁港がある能登町。漁港のそばの巨大モニュメント、イカキングは一躍話題となりました。日本百景に選ばれた九十九湾など風光明媚な里山里海を駆け巡り、能登町に巨大イカキングを描きます。',
-	　　mapStyle: 'mapbox://styles/wataruyoshida/cln47owt0005o01rcdwro2m1o',
+	　　mapStyle: 'mapbox://styles/wataruyoshida/cln4kaf1g005z01rc712g2ixw',
             location: {
               	center: [137.24124, 37.33479],
 		zoom: 11.6,
@@ -112,6 +112,7 @@ var config = {
             title: 'ころ柿　志賀町',
             image: 'https://user-images.githubusercontent.com/93134160/269905430-8dd50e02-0121-4708-ba24-eef087d469ad.jpg',
             description: '能登を代表する特産品、志賀町のころ柿は品種「最勝」を原料柿として、古くから伝わる伝統技法を用いて製造された糖度の高い干柿です。 志賀町の農家の軒先では干し柿がオレンジのカーテンのように吊るされています。',
+	　　mapStyle: 'mapbox://styles/wataruyoshida/cln4ep3m0006101py1ahdbezh',
             location: {
                center: [136.75984, 37.01188],
 		zoom: 13.3,
