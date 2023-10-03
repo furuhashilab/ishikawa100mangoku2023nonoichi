@@ -233,6 +233,7 @@ var config = {
             title: 'うさぎ　七尾市',
             image: 'https://user-images.githubusercontent.com/93134160/269916947-25ec5eb2-bda0-431a-8d1c-a171f2088daa.jpg',
             description: '七尾湾の中に浮かんでいる能登島の海岸線は、美しい海とおだやかな入江、荒波に削られた岩々など変化にとんだ景色が広がっています。海岸線の道路をつないでいくと大きなうさぎが浮かびあがること、ご存じでしたか？',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4ki3pc006a01q55x42c1ct',
             location: {
                center: [137.03906, 37.13466],
 		zoom: 11.4,
@@ -252,6 +253,7 @@ var config = {
             title: '水の旅　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/269920414-10b2521c-cd04-4c7d-8054-5eec091e3fdf.jpg',
             description: '白山手取川ジオパークは2023年、ユネスコ世界ジオパークに認定されました。白山に降った雪が水となり、手取川から日本海に流れる水の旅がテーマです。山頂から加賀禅定道～手取川～日本海までの水の旅を描きます。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4kq2yd005401pw9wia3np4',
             location: {
                 center: [136.40202, 36.26203],
 		zoom: 8.8,
@@ -271,6 +273,7 @@ var config = {
             title: 'わんじま　輪島市',
             image: 'https://user-images.githubusercontent.com/93134160/270154426-a748817a-7e02-4aab-9a4b-cb3058107933.jpg',
             description: '輪島漆芸美術館のゆるキャラ、わんじま。輪島塗のお椀がモチーフです。輪島漆芸美術館をスタートし、輪島塗スポットや輪島の朝市など観光名所を巡りながら出来上がったアートは、手に輪島塗のお箸を持ったわんじまです。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4l0n7f006301pu7ole24b7',
             location: {
                 center: [136.89563, 37.39382],
 		zoom: 14.7,
