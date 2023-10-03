@@ -213,7 +213,7 @@ var config = {
             title: '猿　珠洲市',
             image: 'https://user-images.githubusercontent.com/93134160/269915961-0a831ea8-0db2-48c7-b1e1-5fbf20b96f1f.jpg',
             description: '奥能登には猿にまつわる伝説・伝承が多数残っています。そして珠洲の海岸線は猿の顔そのもの。激坂の山越え、趣の異なる外浦と内浦の海岸線、風情ある珠洲の街並みとバリエーションに富んだコースになっています。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4ki3pc006a01q55x42c1ct',
             location: {
                center: [137.31259, 37.43824],
 		zoom: 10.1,
@@ -293,6 +293,7 @@ var config = {
             title: 'ボラ待ちやぐら　穴水町',
             image: 'https://user-images.githubusercontent.com/93134160/270154647-9325e492-58cc-4090-b54e-3469d03d89db.jpg',
             description: '終日、やぐらの上から海を見張り、魚群がくると網をたぐるという江戸時代からの伝統的漁法のボラ待ちやぐら。最盛期には40基のボラ待ちやぐらがあったそうです。ボラ待ちやぐら3基を巡ってやぐらのアートを描きます。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4l5lm7006401py4gz685ow',
             location: {
                 center: [136.89077, 37.21223],
 		zoom: 12.4,
@@ -312,6 +313,7 @@ var config = {
             title: 'かも丸　加賀市',
             image: 'https://user-images.githubusercontent.com/93134160/270154928-04f20766-38f6-447a-8014-a11db0c60678.jpg',
             description: '加賀市にはラムサール条約に登録されている日本有数の鴨の越冬池や、江戸時代より伝わる伝統的鴨漁「坂網漁」など鴨にちなんだものが有名です。加賀市大聖寺で加賀市の公式キャラクターかも丸くんを描きます。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4l9a4b006001rc3wi79ee4',
             location: {
                 center: [136.30828, 36.30754],
 		zoom: 14.7,
@@ -331,6 +333,7 @@ var config = {
             title: 'ゆ　加賀市',
             image: 'https://user-images.githubusercontent.com/93134160/270155257-a49d20da-d430-4d40-972f-682f8851316c.jpg',
             description: '山代温泉はあいうえお五十音図発祥の地。平安時代、明覚上人はお経を読むためサンスクリット語を学んでいるうちに、日本語に5つの母音があり、文字列がきれいに並ぶことを発見しました。ひらがなで温泉のゆを描きます。',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln4llr51006001r7bn3o493n',
             location: {
                 center: [136.34857, 36.28945],
 		zoom: 13.0,
@@ -350,6 +353,7 @@ var config = {
             title: '続いては石川県にまつわる「言い伝え」をみていきましょう',
             image: '',
             description: '',
+	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
 		zoom: 7.9,
