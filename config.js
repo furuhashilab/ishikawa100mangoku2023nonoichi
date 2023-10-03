@@ -753,7 +753,7 @@ var config = {
             title: 'ONE TEAM　石川１９市町',
             image: '',
             description: '長く続いたコロナ禍や地震、豪雨災害を乗り越え、皆が活力を取り戻すために。いしかわ百万石文化祭・新幹線開業・世界ジオパークなど皆で盛り上げるために。オール石川のチジョウエール、ONE TEAMを描きます。',
-	    mapStyle: 'mapbox://styles/wataruyoshida/cln9z5mil008k01ps1pqd2wgo',
+	    mapStyle: 'mapbox://styles/wataruyoshida/cln9zsw2l002401psdwm7g0ki',
             location: {
                 center: [136.33635, 36.80514],
 		zoom: 7.9,
