@@ -52,6 +52,7 @@ var config = {
             title: '朝顔　白山市',
             image: 'https://user-images.githubusercontent.com/93134160/269891930-33231cd2-6e94-4e50-b5ac-3f3494f2b416.jpg',
             description: '江戸時代の俳人・千代女は白山市出身。千代女は朝顔の句を多く詠んでいることから、朝顔は白山市の花になっています。若宮八幡宮・明達寺・千代女の里俳句館・本誓寺・聖興寺など白山市の観光スポットを巡ります。',
+	　　mapStyle: 'mapbox://styles/wataruyoshida/cln47owt0005o01rcdwro2m1o',
             location: {
                 center: [136.57608, 36.52642],
 		zoom: 13.8,
@@ -71,6 +72,7 @@ var config = {
 	title: '次は石川県の特産品を見ていきましょう！',
             image: '',
             description: '',
+	　　mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
             location: {
                 center: [136.94993, 36.79451],
 		zoom: 8.0,
@@ -90,6 +92,7 @@ var config = {
             title: 'イカキング　能登町',
             image: 'https://user-images.githubusercontent.com/93134160/269909275-47ce8af0-72e5-47e3-8941-175d6aa4ea90.jpg',
             description: '日本有数のイカ釣り漁港がある能登町。漁港のそばの巨大モニュメント、イカキングは一躍話題となりました。日本百景に選ばれた九十九湾など風光明媚な里山里海を駆け巡り、能登町に巨大イカキングを描きます。',
+	　　mapStyle: 'mapbox://styles/wataruyoshida/cln47owt0005o01rcdwro2m1o',
             location: {
               	center: [137.24124, 37.33479],
 		zoom: 11.6,
