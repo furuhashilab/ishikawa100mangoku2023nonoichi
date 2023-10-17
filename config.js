@@ -10,8 +10,8 @@ var config = {
     theme: 'dark',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'いしかわ100万石　~19市町で描くGPSアート~',
-    subtitle: 'GPSアートを見ながら石川県内を巡っていきいましょう！',
+    title: 'いしかわ100万石　~19市町で描くGPSアート~ 野々市市バージョン',
+    subtitle: 'GPSアートを見ながら野々市市内を巡っていきいましょう！',
     byline: 'By Wataru Yoshida, Minaho Ishii',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',    
 	chapters: [
@@ -19,7 +19,7 @@ var config = {
             id: 'slug-style-id',
             alignment: 'right',
             hidden: false,
-            title: 'GPSアート in石川県',
+            title: 'GPSアート in 石川県野々市市',
             image: '',
             description: '本事業は石川県各市町で、各地域がもつ文化や地域の象徴をテーマに、観光スポットや文化資源をコースに取り入れたご当地GPSアートを制作します。 <br> アートを描く際には、その地域の人との交流を行いながら地域文化の魅力を再発見。出来上がったアートを地域文化の魅力とともにメッセージ化することで国民文化祭を盛り上げていきます。 <br> 各地域で創作したご当地GPSアートは「諸国漫遊 地上絵巻」として仕上げ、県民一体の国民文化祭、そして石川県の多様で多彩な地域文化をGPSアートとして表現します。',
 	    mapStyle: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
